@@ -2,7 +2,7 @@
 #link
 
 
-`[https://santiagovizcaino.github.io/reaact-gifapp/]`
+[https://santiagovizcaino.github.io/reaact-gifapp/]
 
 
 # Getting Started with Create React App
